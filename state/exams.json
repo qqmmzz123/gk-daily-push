@@ -330,27 +330,10 @@
   "https://www.fenbi.com/page/exam-information-detail/470065252688896": "2026-10-28",
   "https://www.fenbi.com/page/exam-information-detail/469724541770752": "2026-10-28",
   "https://www.fenbi.com/page/exam-information-detail/469799800169472": "2026-10-28",
-  "https://www.fenbi.com/page/exam-information-detail/470072284179456": "2026-10-28"
+  "https://www.fenbi.com/page/exam-information-detail/470072284179456": "2026-10-28",
+  "https://www.fenbi.com/page/exam-information-detail/470070238931968": "2026-10-29"
  },
  "events": [
-  {
-   "kind": "报名开始",
-   "date": "2026-10-20",
-   "raw": "报名时间为2026年10月20日9:00至10月22日17:00",
-   "url": "https://sydw.huatu.com/2026/1019/2875357.html",
-   "title": "2026年甘肃兰州市市直事业单位第二轮公开选调工作人员47人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-10-19"
-  },
-  {
-   "kind": "报名开始",
-   "date": "2026-10-20",
-   "raw": "资格初审 1. 报名时间。2026年10月20日8:00至10月28日18:00，逾期不予",
-   "url": "https://sydw.huatu.com/2026/1020/2875470.html",
-   "title": "2026年甘肃天水市第二批招聘高层次和急需紧缺人才226人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-10-20"
-  },
   {
    "kind": "报名开始",
    "date": "2026-10-20",
@@ -1484,6 +1467,15 @@
    "title": "正在报名万安县关于公开招募2026-2027年度特聘农技员的公告",
    "source": "粉笔·招考公告",
    "added": "2026-10-28"
+  },
+  {
+   "kind": "报名开始",
+   "date": "2026-10-28",
+   "raw": "位 查看职位表 报名时间 2026/10/28 -2026/11/30 为加快推进中国科学",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470070238931968",
+   "title": "正在报名中国科学院东北地理与农业生态研究所2027年度特别研究助理（博士后）岗位（第一批）招聘启事",
+   "source": "粉笔·招考公告",
+   "added": "2026-10-29"
   },
   {
    "kind": "报名截止",
@@ -3716,6 +3708,15 @@
    "title": "报名结束中央机关及其直属机构2027年度考试录用公务员公告",
    "source": "粉笔·招考公告",
    "added": "2026-10-28"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-11-30",
+   "raw": "位 查看职位表 报名时间 2026/10/28 -2026/11/30 为加快推进中国科学",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470070238931968",
+   "title": "正在报名中国科学院东北地理与农业生态研究所2027年度特别研究助理（博士后）岗位（第一批）招聘启事",
+   "source": "粉笔·招考公告",
+   "added": "2026-10-29"
   },
   {
    "kind": "准考证打印",
