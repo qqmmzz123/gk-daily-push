@@ -353,18 +353,10 @@
   "https://www.fenbi.com/page/exam-information-detail/470092896562176": "2026-10-29",
   "https://www.fenbi.com/page/exam-information-detail/470093146121216": "2026-10-29",
   "https://www.fenbi.com/page/exam-information-detail/470086426586112": "2026-10-29",
-  "https://www.fenbi.com/page/exam-information-detail/470049620518912": "2026-10-29"
+  "https://www.fenbi.com/page/exam-information-detail/470049620518912": "2026-10-29",
+  "https://www.fenbi.com/page/exam-information-detail/470088331322369": "2026-10-30"
  },
  "events": [
-  {
-   "kind": "报名截止",
-   "date": "2026-10-23",
-   "raw": "报考时要注意哪些事项？ 分清注册认证和报名截止时间 注册认证于10月23日18:00截止",
-   "url": "https://www.fenbi.com/page/exam-information-detail/469868115421184",
-   "title": "即将报名中央机关及其直属机构2027年度考试录用公务员磐安岗位公告",
-   "source": "粉笔·招考公告",
-   "added": "2026-10-19"
-  },
   {
    "kind": "报名截止",
    "date": "2026-10-23",
@@ -1381,6 +1373,15 @@
    "title": "正在报名中国人民大学附属小学2027年度教师岗位招聘通知",
    "source": "粉笔·招考公告",
    "added": "2026-10-29"
+  },
+  {
+   "kind": "报名开始",
+   "date": "2026-10-29",
+   "raw": "位 查看职位表 报名时间 2026/10/29起 所况简介 中国科学院理化技术研究所组建于 1999",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470088331322369",
+   "title": "正在报名中国科学院理化技术研究所2027年度校园招聘公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-10-30"
   },
   {
    "kind": "报名截止",
