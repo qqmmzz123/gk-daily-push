@@ -420,27 +420,10 @@
   "https://www.fenbi.com/page/exam-information-detail/470211431000064": "2026-11-03",
   "https://www.fenbi.com/page/exam-information-detail/470208235202560": "2026-11-03",
   "https://www.fenbi.com/page/exam-information-detail/470208187755521": "2026-11-03",
-  "https://www.fenbi.com/page/exam-information-detail/470207106409472": "2026-11-03"
+  "https://www.fenbi.com/page/exam-information-detail/470207106409472": "2026-11-03",
+  "https://www.fenbi.com/page/exam-information-detail/470208208463872": "2026-11-04"
  },
  "events": [
-  {
-   "kind": "资格审查截止",
-   "date": "2026-11-02",
-   "raw": "资格复审 2026.11.02 陕西事业单位招聘2026下半年成绩发布时间（附成绩查询入口） 2026.11.02 兵团2026年下半年面向社会公开招聘事业单位",
-   "url": "https://sydw.huatu.com/2026/1103/2876734.html",
-   "title": "上海市长宁区2026年下半年事业单位公开招聘面试公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-11-03"
-  },
-  {
-   "kind": "报名开始",
-   "date": "2026-11-03",
-   "raw": "招聘程序 (一)网上报名 1.报名时间为5个工作日(2026年11月3日上午9:00至11月9日17:00)",
-   "url": "https://sydw.huatu.com/2026/1029/2876396.html",
-   "title": "2026年广东广州市黄埔区卫生健康系统事业单位公开招聘工作人员60人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-10-29"
-  },
   {
    "kind": "报名开始",
    "date": "2026-11-03",
@@ -674,6 +657,15 @@
    "title": "2027年浙江宁波市北仑区教育局公开招聘“港城教育英才”储备人才170人公告",
    "source": "华图·全国事业单位",
    "added": "2026-11-03"
+  },
+  {
+   "kind": "报名开始",
+   "date": "2026-11-04",
+   "raw": "1.报名时间：2026年11月4日至11月12日",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470208208463872",
+   "title": "正在报名天水市教育系统2027年度公开招聘国家协议培养师范毕业生公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-04"
   },
   {
    "kind": "报名截止",
@@ -2267,6 +2259,15 @@
    "title": "2027年度山东省气象部门事业单位公开招聘应届高校毕业生53人公告（2701号）",
    "source": "华图·全国事业单位",
    "added": "2026-11-03"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-11-12",
+   "raw": "1.报名时间：2026年11月4日至11月12日",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470208208463872",
+   "title": "正在报名天水市教育系统2027年度公开招聘国家协议培养师范毕业生公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-04"
   },
   {
    "kind": "缴费截止",
