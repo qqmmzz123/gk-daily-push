@@ -398,27 +398,10 @@
   "https://www.fenbi.com/page/exam-information-detail/470186106052608": "2026-11-02",
   "https://www.fenbi.com/page/exam-information-detail/470185552667650": "2026-11-02",
   "https://www.fenbi.com/page/exam-information-detail/470185011863552": "2026-11-02",
-  "https://www.fenbi.com/page/exam-information-detail/470181908080640": "2026-11-02"
+  "https://www.fenbi.com/page/exam-information-detail/470181908080640": "2026-11-02",
+  "https://www.fenbi.com/page/exam-information-detail/470198951635968": "2026-11-03"
  },
  "events": [
-  {
-   "kind": "资格审查截止",
-   "date": "2026-10-30",
-   "raw": "报名与资格审查 (一)报名时间 2026年10月22日9:30至10月30日18:00止",
-   "url": "https://sydw.huatu.com/2026/1021/2875750.html",
-   "title": "2026年非援藏省（自治区）事业单位面向西藏籍少数民族高校毕业生专项招聘工作人员46人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-10-21"
-  },
-  {
-   "kind": "资格审查截止",
-   "date": "2026-10-30",
-   "raw": "(二)单位初审 初审时间：2026年10月26日11:00—10月30日18:00 莒县卫生健康局指定专人负责资格初审工作(节假日不休息)",
-   "url": "https://sydw.huatu.com/2026/1022/2875829.html",
-   "title": "2026年山东日照市莒县卫生健康系统事业单位公开招聘工作人员49人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-10-22"
-  },
   {
    "kind": "资格审查截止",
    "date": "2026-10-30",
@@ -2499,6 +2482,15 @@
    "added": "2026-11-02"
   },
   {
+   "kind": "报名截止",
+   "date": "2026-11-11",
+   "raw": "人 查看职位表 报名时间 2026/10/23 -2026/11/11 笔试时间 2026",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470198951635968",
+   "title": "正在报名中国船级社2027年度人才招聘公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-03"
+  },
+  {
    "kind": "缴费截止",
    "date": "2026-11-11",
    "raw": "(三)网上缴费 缴费时间：2026年10月31日11:00—11月11日16:00 通过资格初审的人员",
@@ -3838,6 +3830,15 @@
    "title": "2027年度上海市考试录用公务员公告",
    "source": "华图·山西公务员",
    "added": "2026-10-31"
+  },
+  {
+   "kind": "面试",
+   "date": "2026-12-07",
+   "raw": "6/11/28 面试时间 2026/12/7 -2026/12/19 中国船级社2027年度人",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470198951635968",
+   "title": "正在报名中国船级社2027年度人才招聘公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-03"
   },
   {
    "kind": "报名截止",
