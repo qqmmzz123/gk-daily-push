@@ -439,27 +439,10 @@
   "https://www.fenbi.com/page/exam-information-detail/470200907751424": "2026-11-04",
   "https://www.fenbi.com/page/exam-information-detail/470115303056384": "2026-11-04",
   "https://www.fenbi.com/page/exam-information-detail/470230866880512": "2026-11-04",
-  "https://www.fenbi.com/page/exam-information-detail/470229899830272": "2026-11-04"
+  "https://www.fenbi.com/page/exam-information-detail/470229899830272": "2026-11-04",
+  "https://www.fenbi.com/page/exam-information-detail/470230539201536": "2026-11-05"
  },
  "events": [
-  {
-   "kind": "资格审查截止",
-   "date": "2026-11-04",
-   "raw": "如果在11月4日17:00前未重新提交或资格审查仍未通过的",
-   "url": "https://sydw.huatu.com/2026/1026/2875956.html",
-   "title": "2026年海南省纪委监委所属事业单位公开招聘事业编制人员11人公告（第1号）",
-   "source": "华图·全国事业单位",
-   "added": "2026-10-26"
-  },
-  {
-   "kind": "资格审查截止",
-   "date": "2026-11-04",
-   "raw": "资格复审时使用。资格初审不合格的，可于报名时间截止（2026年11月4日上午8:00）前改报其",
-   "url": "https://www.fenbi.com/page/exam-information-detail/470065252688896",
-   "title": "即将报名南充市2027年度公开考试录用公务员（人民警察）公告（28人）",
-   "source": "粉笔·招考公告",
-   "added": "2026-10-28"
-  },
   {
    "kind": "公示截止",
    "date": "2026-11-05",
@@ -540,6 +523,15 @@
    "title": "2027年浙江宁波市镇海区公开招聘事业编制教师161人公告（第一批）",
    "source": "华图·全国事业单位",
    "added": "2026-11-04"
+  },
+  {
+   "kind": "报名开始",
+   "date": "2026-11-05",
+   "raw": "报名时间:2026年11月5日至2026年11月18日18：00",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470230539201536",
+   "title": "正在报名西藏自治区气象局2027年度公开招聘应届高校毕业生公告（第一批次第1号）",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-05"
   },
   {
    "kind": "报名截止",
@@ -2763,6 +2755,15 @@
    "title": "西藏气象部门2027年度公开招聘应届高校毕业生33人公告（第一批次第1号）",
    "source": "华图·全国事业单位",
    "added": "2026-11-04"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-11-18",
+   "raw": "报名时间:2026年11月5日至2026年11月18日18：00",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470230539201536",
+   "title": "正在报名西藏自治区气象局2027年度公开招聘应届高校毕业生公告（第一批次第1号）",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-05"
   },
   {
    "kind": "缴费截止",
