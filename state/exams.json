@@ -494,27 +494,10 @@
   "https://www.fenbi.com/page/exam-information-detail/470245951693824": "2026-11-06",
   "https://www.fenbi.com/page/exam-information-detail/470278396731392": "2026-11-06",
   "https://www.fenbi.com/page/exam-information-detail/470290350236672": "2026-11-07",
-  "https://www.fenbi.com/page/exam-information-detail/470278331981824": "2026-11-07"
+  "https://www.fenbi.com/page/exam-information-detail/470278331981824": "2026-11-07",
+  "https://sydw.huatu.com/2026/1108/2877157.html": "2026-11-08"
  },
  "events": [
-  {
-   "kind": "资格审查截止",
-   "date": "2026-11-11",
-   "raw": "（一）报名和资格初审 报名时间：2026年11月6日9时—11月11日17时",
-   "url": "https://www.fenbi.com/page/exam-information-detail/470257937703936",
-   "title": "即将报名温岭市各级机关单位2027年度考试录用公务员公告",
-   "source": "粉笔·招考公告",
-   "added": "2026-11-06"
-  },
-  {
-   "kind": "资格审查截止",
-   "date": "2026-11-11",
-   "raw": "（一）报名和资格初审 报名时间：2026年11月6日9时—11月11日17时",
-   "url": "https://www.fenbi.com/page/exam-information-detail/470257653277696",
-   "title": "即将报名宁波市北仑区各级机关单位2027年度考试录用公务员公告",
-   "source": "粉笔·招考公告",
-   "added": "2026-11-06"
-  },
   {
    "kind": "资格审查截止",
    "date": "2026-11-11",
@@ -532,6 +515,15 @@
    "title": "正在报名浙江省各级机关单位2027年度考试录用公务员公告",
    "source": "粉笔·招考公告",
    "added": "2026-11-06"
+  },
+  {
+   "kind": "资格审查截止",
+   "date": "2026-11-11",
+   "raw": "资格初审时间为2026年11月11日至13日",
+   "url": "https://sydw.huatu.com/2026/1108/2877157.html",
+   "title": "2026年山西事业单位公开招聘补充工作人员1702人公告",
+   "source": "华图·全国事业单位",
+   "added": "2026-11-08"
   },
   {
    "kind": "公示截止",
@@ -1333,6 +1325,15 @@
    "title": "2027年浙江宁波市奉化区教育系统公开招聘第一批事业编制教师66人公告",
    "source": "华图·全国事业单位",
    "added": "2026-11-04"
+  },
+  {
+   "kind": "资格审查截止",
+   "date": "2026-11-14",
+   "raw": "报考人员可于2026年11月14日10:00后登录报名网站查询资格初审结果",
+   "url": "https://sydw.huatu.com/2026/1108/2877157.html",
+   "title": "2026年山西事业单位公开招聘补充工作人员1702人公告",
+   "source": "华图·全国事业单位",
+   "added": "2026-11-08"
   },
   {
    "kind": "面试",
