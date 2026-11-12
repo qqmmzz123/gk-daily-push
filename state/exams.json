@@ -548,18 +548,10 @@
   "https://sydw.huatu.com/2026/1111/2877454.html": "2026-11-11",
   "https://www.fenbi.com/page/exam-information-detail/470386378041344": "2026-11-11",
   "https://www.fenbi.com/page/exam-information-detail/470391329942528": "2026-11-11",
-  "https://www.fenbi.com/page/exam-information-detail/470389371985920": "2026-11-11"
+  "https://www.fenbi.com/page/exam-information-detail/470389371985920": "2026-11-11",
+  "https://www.fenbi.com/page/exam-information-detail/470402614455296": "2026-11-12"
  },
  "events": [
-  {
-   "kind": "报名截止",
-   "date": "2026-11-18",
-   "raw": "行注册并选择职位报名。 (二)缴费确认 时间：2026年11月14日9时—11月18日17",
-   "url": "http://sx.huatu.com/2026/1105/1281339.html",
-   "title": "浙江省各级机关单位2027年度考试录用公务员公告",
-   "source": "华图·山西公务员",
-   "added": "2026-11-05"
-  },
   {
    "kind": "报名截止",
    "date": "2026-11-18",
@@ -847,6 +839,15 @@
    "title": "2026年下半年四川广元市事业单位公开考试专项招聘工作人员378人公告",
    "source": "华图·全国事业单位",
    "added": "2026-11-11"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-11-19",
+   "raw": "人 查看职位表 报名时间 2026/11/12 -2026/11/19 00:00 机械工",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470402614455296",
+   "title": "正在报名机械工业信息研究院2027年度校园招聘",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-12"
   },
   {
    "kind": "缴费截止",
