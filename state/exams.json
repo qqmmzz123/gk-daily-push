@@ -580,18 +580,10 @@
   "https://sydw.huatu.com/2026/1112/2877655.html": "2026-11-13",
   "https://sydw.huatu.com/2026/1112/2877646.html": "2026-11-13",
   "https://www.fenbi.com/page/exam-information-detail/470437489830912": "2026-11-13",
-  "https://www.fenbi.com/page/exam-information-detail/470435970968576": "2026-11-13"
+  "https://www.fenbi.com/page/exam-information-detail/470435970968576": "2026-11-13",
+  "https://www.fenbi.com/page/exam-information-detail/470441562760192": "2026-11-14"
  },
  "events": [
-  {
-   "kind": "资格审查截止",
-   "date": "2026-11-20",
-   "raw": "4.现场资格复审时间：2026年11月20日15:30—18:00",
-   "url": "https://www.fenbi.com/page/exam-information-detail/470254204511232",
-   "title": "2026年玉林市教育系统赴高校（桂林专场）公开招聘教师公告",
-   "source": "粉笔·招考公告",
-   "added": "2026-11-12"
-  },
   {
    "kind": "资格审查截止",
    "date": "2026-11-20",
@@ -3849,6 +3841,15 @@
    "title": "2027年福建省平潭综合实验区公开招聘事业单位工作人员21人公告",
    "source": "华图·全国事业单位",
    "added": "2026-11-04"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-12-14",
+   "raw": "人 查看职位表 报名时间 2026/11/14 -2026/12/14 00:00 往期回",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470441562760192",
+   "title": "正在报名南京841研究所2027年秋季校园招聘",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-14"
   },
   {
    "kind": "缴费截止",
