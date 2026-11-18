@@ -617,27 +617,10 @@
   "https://sydw.huatu.com/2026/1116/2877923.html": "2026-11-18",
   "https://sydw.huatu.com/2026/1116/2877895.html": "2026-11-18",
   "https://www.fenbi.com/page/exam-information-detail/470523621697537": "2026-11-18",
-  "https://www.fenbi.com/page/exam-information-detail/470519646544896": "2026-11-18"
+  "https://www.fenbi.com/page/exam-information-detail/470519646544896": "2026-11-18",
+  "https://www.fenbi.com/page/exam-information-detail/470522423438336": "2026-11-18"
  },
  "events": [
-  {
-   "kind": "报名截止",
-   "date": "2026-11-24",
-   "raw": "（二）报名 1.报名时间:2026年11月16日08时至11月24日18时",
-   "url": "https://www.fenbi.com/page/exam-information-detail/470493383647232",
-   "title": "正在报名云南省气象部门2027年度事业单位公开招聘公告（第1号）",
-   "source": "粉笔·招考公告",
-   "added": "2026-11-16"
-  },
-  {
-   "kind": "报名截止",
-   "date": "2026-11-24",
-   "raw": "位 查看职位表 报名时间 2026/11/17 09:27-2026/11/24 09:27",
-   "url": "https://www.fenbi.com/page/exam-information-detail/470516780524544",
-   "title": "正在报名三二〇一医院2027年招聘公告",
-   "source": "粉笔·招考公告",
-   "added": "2026-11-17"
-  },
   {
    "kind": "报名截止",
    "date": "2026-11-24",
@@ -1755,6 +1738,15 @@
    "added": "2026-11-06"
   },
   {
+   "kind": "报名截止",
+   "date": "2026-12-01",
+   "raw": "位 查看职位表 报名时间 2026/11/18 09:00-2026/12/1 17:00",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470522423438336",
+   "title": "正在报名应急管理部所属单位2027年度第一批次公开招聘公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-18"
+  },
+  {
    "kind": "缴费截止",
    "date": "2026-12-01",
    "raw": "报名入口 3.网上缴费时间：2026年11月26日9:00-12月1日17:00",
@@ -1816,6 +1808,15 @@
    "title": "2026年浙江宁波市象山县事业单位公开招聘工作人员26人公告",
    "source": "华图·全国事业单位",
    "added": "2026-11-16"
+  },
+  {
+   "kind": "资格审查截止",
+   "date": "2026-12-01",
+   "raw": "报名和资格审查 2026年11月18日9:00至12月1日17:00",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470522423438336",
+   "title": "正在报名应急管理部所属单位2027年度第一批次公开招聘公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-18"
   },
   {
    "kind": "准考证开始",
