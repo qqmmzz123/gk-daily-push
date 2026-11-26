@@ -702,18 +702,11 @@
   "https://sydw.huatu.com/2026/1125/2878915.html": "2026-11-26",
   "https://sydw.huatu.com/2026/1125/2878896.html": "2026-11-26",
   "https://www.fenbi.com/page/exam-information-detail/470706095159296": "2026-11-26",
-  "https://www.fenbi.com/page/exam-information-detail/470704810390528": "2026-11-26"
+  "https://www.fenbi.com/page/exam-information-detail/470704810390528": "2026-11-26",
+  "https://www.fenbi.com/page/exam-information-detail/470720605616129": "2026-11-26",
+  "https://www.fenbi.com/page/exam-information-detail/470720612954112": "2026-11-26"
  },
  "events": [
-  {
-   "kind": "报名截止",
-   "date": "2026-12-04",
-   "raw": "报名时间为2026年11月27日9:00—12月4日9:00",
-   "url": "https://sydw.huatu.com/2026/1124/2878748.html",
-   "title": "重庆市区县事业单位2026年第四季度公开招聘工作人员673人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-11-25"
-  },
   {
    "kind": "报名截止",
    "date": "2026-12-04",
@@ -2522,6 +2515,15 @@
    "title": "2026年湖南岳阳市市直高校和公立医院、平江县、华容县、君山区集中招聘工作人员221人公告",
    "source": "华图·全国事业单位",
    "added": "2026-11-18"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-12-09",
+   "raw": "（二）报名时间及联系方式 1.报名时间：2026年11月25日至2026年12月9日",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470720605616129",
+   "title": "正在报名防城港市第一人民医院（自治区级区域医疗中心）2027年度招聘工作人员公告",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-26"
   },
   {
    "kind": "缴费截止",
