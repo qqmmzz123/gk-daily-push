@@ -721,18 +721,10 @@
   "https://sydw.huatu.com/2026/1125/2879021.html": "2026-11-27",
   "https://sydw.huatu.com/2026/1125/2878982.html": "2026-11-27",
   "https://www.fenbi.com/page/exam-information-detail/470730658053120": "2026-11-27",
-  "https://www.fenbi.com/page/exam-information-detail/470723438343168": "2026-11-27"
+  "https://www.fenbi.com/page/exam-information-detail/470723438343168": "2026-11-27",
+  "https://www.fenbi.com/page/exam-information-detail/470722136798208": "2026-11-27"
  },
  "events": [
-  {
-   "kind": "准考证截止",
-   "date": "2026-12-05",
-   "raw": "公共科目笔试时间为： 2026年12月6日上午9:00-11:00 行政职业能力测验 2026年12月6日下午14:00-16:30 申论 公安机关人民警察职位",
-   "url": "https://sydw.huatu.com/2026/1109/2877199.html",
-   "title": "北京市各级机关2027年度考试录用公务员3054人公告",
-   "source": "华图·全国事业单位",
-   "added": "2026-11-10"
-  },
   {
    "kind": "准考证截止",
    "date": "2026-12-05",
@@ -2361,6 +2353,15 @@
    "title": "正在报名防城港市第一人民医院（自治区级区域医疗中心）2027年度招聘工作人员公告",
    "source": "粉笔·招考公告",
    "added": "2026-11-26"
+  },
+  {
+   "kind": "报名截止",
+   "date": "2026-12-09",
+   "raw": "人 查看职位表 报名时间 2026/11/26 -2026/12/9 上海中医药大学附属岳",
+   "url": "https://www.fenbi.com/page/exam-information-detail/470722136798208",
+   "title": "正在报名2027年上海中医药大学附属岳阳中西医结合医院招聘公告（第一批）",
+   "source": "粉笔·招考公告",
+   "added": "2026-11-27"
   },
   {
    "kind": "缴费截止",
